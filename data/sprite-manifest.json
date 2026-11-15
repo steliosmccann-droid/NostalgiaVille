@@ -1,0 +1,1775 @@
+{
+  "format": "farmville-image-pack",
+  "version": 1,
+  "created": "2026-11-14T00:00:00.000Z",
+  "images": [
+    {
+      "name": "cow",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/cow.webp"
+    },
+    {
+      "name": "chicken",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/chicken.webp"
+    },
+    {
+      "name": "sheep",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/sheep.webp"
+    },
+    {
+      "name": "pig",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pig.webp"
+    },
+    {
+      "name": "rabbit",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/rabbit.webp"
+    },
+    {
+      "name": "duck",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/duck.webp"
+    },
+    {
+      "name": "goat",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/goat.webp"
+    },
+    {
+      "name": "cherry",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/cherry.webp"
+    },
+    {
+      "name": "apple",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/apple.webp"
+    },
+    {
+      "name": "orange",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/orange.webp"
+    },
+    {
+      "name": "fig",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/fig.webp"
+    },
+    {
+      "name": "avocado",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/avocado.webp"
+    },
+    {
+      "name": "lychee",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lychee.webp"
+    },
+    {
+      "name": "maple",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/maple.webp"
+    },
+    {
+      "name": "lavender-bonsai",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lavender-bonsai.webp"
+    },
+    {
+      "name": "rambutan",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/rambutan.webp"
+    },
+    {
+      "name": "treehouse",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/treehouse.webp"
+    },
+    {
+      "name": "gazebo",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/gazebo.webp"
+    },
+    {
+      "name": "silo",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/silo.webp"
+    },
+    {
+      "name": "garden-shed",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/garden-shed.webp"
+    },
+    {
+      "name": "tool-shed",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/tool-shed.webp"
+    },
+    {
+      "name": "coop",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/coop.webp"
+    },
+    {
+      "name": "dairy",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/dairy.webp"
+    },
+    {
+      "name": "red-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/red-barn.webp"
+    },
+    {
+      "name": "stable",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/stable.webp"
+    },
+    {
+      "name": "nursery",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/nursery.webp"
+    },
+    {
+      "name": "garage",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/garage.webp"
+    },
+    {
+      "name": "villa",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/villa.webp"
+    },
+    {
+      "name": "pagoda",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pagoda.webp"
+    },
+    {
+      "name": "tea-house",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/tea-house.webp"
+    },
+    {
+      "name": "school",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/school.webp"
+    },
+    {
+      "name": "post-office",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/post-office.webp"
+    },
+    {
+      "name": "general-store",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/general-store.webp"
+    },
+    {
+      "name": "library",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/library.webp"
+    },
+    {
+      "name": "estate",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/estate.webp"
+    },
+    {
+      "name": "lodge",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lodge.webp"
+    },
+    {
+      "name": "carnival",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/carnival.webp"
+    },
+    {
+      "name": "ferris",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/ferris.webp"
+    },
+    {
+      "name": "santa",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/santa.webp"
+    },
+    {
+      "name": "gingerbread",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/gingerbread.webp"
+    },
+    {
+      "name": "igloo",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/igloo.webp"
+    },
+    {
+      "name": "holiday-tree",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/holiday-tree.webp"
+    },
+    {
+      "name": "stadium",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/stadium.webp"
+    },
+    {
+      "name": "haunted",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/haunted.webp"
+    },
+    {
+      "name": "botanical-garden",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/botanical-garden.webp"
+    },
+    {
+      "name": "manor",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/manor.webp"
+    },
+    {
+      "name": "black-manor",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/black-manor.webp"
+    },
+    {
+      "name": "pink-manor",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-manor.webp"
+    },
+    {
+      "name": "pink-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-barn.webp"
+    },
+    {
+      "name": "black-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/black-barn.webp"
+    },
+    {
+      "name": "blue-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/blue-barn.webp"
+    },
+    {
+      "name": "white-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/white-barn.webp"
+    },
+    {
+      "name": "groovy-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/groovy-barn.webp"
+    },
+    {
+      "name": "weathered-barn",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/weathered-barn.webp"
+    },
+    {
+      "name": "pink-gazebo",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-gazebo.webp"
+    },
+    {
+      "name": "pink-treehouse",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-treehouse.webp"
+    },
+    {
+      "name": "pink-tool-shed",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-tool-shed.webp"
+    },
+    {
+      "name": "green-tool-shed",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/green-tool-shed.webp"
+    },
+    {
+      "name": "tractor",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/tractor.webp"
+    },
+    {
+      "name": "pink-tractor",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-tractor.webp"
+    },
+    {
+      "name": "lucky-tractor",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lucky-tractor.webp"
+    },
+    {
+      "name": "seeder",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/seeder.webp"
+    },
+    {
+      "name": "harvester",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/harvester.webp"
+    },
+    {
+      "name": "combine",
+      "conf": {
+        "scale": 1,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/combine.webp"
+    },
+    {
+      "name": "hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/hay.webp"
+    },
+    {
+      "name": "barrel",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/barrel.webp"
+    },
+    {
+      "name": "crate",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/crate.webp"
+    },
+    {
+      "name": "haystack",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/haystack.webp"
+    },
+    {
+      "name": "stool",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/stool.webp"
+    },
+    {
+      "name": "mailbox",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/mailbox.webp"
+    },
+    {
+      "name": "churn",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/churn.webp"
+    },
+    {
+      "name": "wood",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/wood.webp"
+    },
+    {
+      "name": "scarecrow",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/scarecrow.webp"
+    },
+    {
+      "name": "gnome",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/gnome.webp"
+    },
+    {
+      "name": "flamingo",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/flamingo.webp"
+    },
+    {
+      "name": "plant",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/plant.webp"
+    },
+    {
+      "name": "birdhouse",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/birdhouse.webp"
+    },
+    {
+      "name": "pump",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pump.webp"
+    },
+    {
+      "name": "telephone",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/telephone.webp"
+    },
+    {
+      "name": "light",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/light.webp"
+    },
+    {
+      "name": "sundial",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/sundial.webp"
+    },
+    {
+      "name": "bbq",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/bbq.webp"
+    },
+    {
+      "name": "wagon-small",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/wagon-small.webp"
+    },
+    {
+      "name": "stone-mailbox",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/stone-mailbox.webp"
+    },
+    {
+      "name": "blue-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/blue-hay.webp"
+    },
+    {
+      "name": "red-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/red-hay.webp"
+    },
+    {
+      "name": "white-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/white-hay.webp"
+    },
+    {
+      "name": "lawn-jockey",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lawn-jockey.webp"
+    },
+    {
+      "name": "lil-red-wagon",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lil-red-wagon.webp"
+    },
+    {
+      "name": "wagon-wheel",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/wagon-wheel.webp"
+    },
+    {
+      "name": "axe-block",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/axe-block.webp"
+    },
+    {
+      "name": "topiary",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/topiary.webp"
+    },
+    {
+      "name": "bike",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/bike.webp"
+    },
+    {
+      "name": "wheel",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/wheel.webp"
+    },
+    {
+      "name": "outhouse",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/outhouse.webp"
+    },
+    {
+      "name": "lawnmower",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/lawnmower.webp"
+    },
+    {
+      "name": "sandbox",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/sandbox.webp"
+    },
+    {
+      "name": "cart",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/cart.webp"
+    },
+    {
+      "name": "water-trough",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/water-trough.webp"
+    },
+    {
+      "name": "feed-trough",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/feed-trough.webp"
+    },
+    {
+      "name": "bench",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/bench.webp"
+    },
+    {
+      "name": "picnic-basket",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/picnic-basket.webp"
+    },
+    {
+      "name": "picnic",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/picnic.webp"
+    },
+    {
+      "name": "wagon",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/wagon.webp"
+    },
+    {
+      "name": "covered-wagon",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/covered-wagon.webp"
+    },
+    {
+      "name": "hay-wagon",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/hay-wagon.webp"
+    },
+    {
+      "name": "barrel-wagon",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/barrel-wagon.webp"
+    },
+    {
+      "name": "hammock",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/hammock.webp"
+    },
+    {
+      "name": "band",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/band.webp"
+    },
+    {
+      "name": "pond",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pond.webp"
+    },
+    {
+      "name": "large-pond",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/large-pond.webp"
+    },
+    {
+      "name": "pink-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-hay.webp"
+    },
+    {
+      "name": "gray-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/gray-hay.webp"
+    },
+    {
+      "name": "green-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/green-hay.webp"
+    },
+    {
+      "name": "orange-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/orange-hay.webp"
+    },
+    {
+      "name": "jet-black-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/jet-black-hay.webp"
+    },
+    {
+      "name": "violet-hay",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/violet-hay.webp"
+    },
+    {
+      "name": "black-scarecrow",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/black-scarecrow.webp"
+    },
+    {
+      "name": "pink-scarecrow",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pink-scarecrow.webp"
+    },
+    {
+      "name": "blue-scarecrow",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/blue-scarecrow.webp"
+    },
+    {
+      "name": "groovy-scarecrow",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/groovy-scarecrow.webp"
+    },
+    {
+      "name": "country-flags",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/country-flags.webp"
+    },
+    {
+      "name": "farmville-flag",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/farmville-flag.webp"
+    },
+    {
+      "name": "zynga-flag",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/zynga-flag.webp"
+    },
+    {
+      "name": "blue-gazing-ball",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/blue-gazing-ball.webp"
+    },
+    {
+      "name": "blue-bike",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/blue-bike.webp"
+    },
+    {
+      "name": "flamingo-topiary",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/flamingo-topiary.webp"
+    },
+    {
+      "name": "cow-topiary",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/cow-topiary.webp"
+    },
+    {
+      "name": "pig-topiary",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/pig-topiary.webp"
+    },
+    {
+      "name": "elephant-topiary",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/elephant-topiary.webp"
+    },
+    {
+      "name": "log-bench",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/log-bench.webp"
+    },
+    {
+      "name": "ladder-bucket",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/ladder-bucket.webp"
+    },
+    {
+      "name": "barrel-apples",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/barrel-apples.webp"
+    },
+    {
+      "name": "barrel-grapes",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/barrel-grapes.webp"
+    },
+    {
+      "name": "hedge-gate",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/hedge-gate.webp"
+    },
+    {
+      "name": "iron-bench",
+      "conf": {
+        "scale": 0.9,
+        "cols": 1,
+        "rows": 1,
+        "fps": 8,
+        "offsetX": 0,
+        "offsetY": 0,
+        "flipX": false
+      },
+      "src": "assets/sprites/iron-bench.webp"
+    }
+  ]
+}
